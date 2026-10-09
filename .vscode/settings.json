@@ -1,5 +1,4 @@
 {
-  "cSpell.words": [
-    "balint"
-  ]
+  "editor.defaultFormatter": "oxc.oxc-vscode",
+  "cSpell.words": ["balint"]
 }

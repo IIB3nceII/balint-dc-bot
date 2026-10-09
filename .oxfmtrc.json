@@ -1,0 +1,15 @@
+{
+  "$schema": "./node_modules/oxfmt/configuration_schema.json",
+  "printWidth": 80,
+  "tabWidth": 2,
+  "useTabs": false,
+  "singleQuote": true,
+  "semi": false,
+  "ignorePatterns": [
+    "dist/**",
+    "node_modules/**",
+    "bun.lock",
+    ".env*",
+    "CLAUDE.md"
+  ]
+}
